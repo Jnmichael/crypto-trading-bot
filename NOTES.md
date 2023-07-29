@@ -1,4 +1,4 @@
-Goals for tomorrow, Aug 14:
+Goals for tomorrow, Aug 14 2020:
 
 - write func to check account balance --DONE
 - test out the RSI and bollinger band indicators, eth since its array has a start time --DONE
